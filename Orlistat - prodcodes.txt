@@ -1,0 +1,6 @@
+ProdCodeId	DMDCode	TermfromEMIS	ProductName	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	DrugIssues
+1661741000033113	317893003	Orlistat 120mg capsules	Orlistat 120mg capsules	Orlistat	120.000mg	Capsule	Oral	4050100	3000000
+6111241000033116	426638000	Orlistat 60mg capsules	Orlistat 60mg capsules	Orlistat	60.000mg	Capsule	Oral	4050100	20000
+1711941000033117	4.60711E+14	Xenical 120mg capsules (Neon Healthcare Ltd)	Xenical 120mg capsules	Orlistat	120.000mg	Capsule	Oral		100000
+6111341000033114	1.56154E+16	Alli 60mg capsules (GlaxoSmithKline Consumer Healthcare UK Ltd)	Alli 60mg capsules	Orlistat	60.000mg	Capsule	Oral		600
+9157741000033115	2.44048E+16	Beacita 120mg capsules (Actavis UK Ltd)	Beacita 120mg capsules	Orlistat	120.000mg	Capsule	Oral		40
